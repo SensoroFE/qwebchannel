@@ -5,6 +5,9 @@
   "repository": "git@github.com:SensoroFE/qwebchannel.git",
   "author": "wangxingkang <156148958@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "walrus release"
+  },
   "publishConfig": {
     "access": "public"
   },
